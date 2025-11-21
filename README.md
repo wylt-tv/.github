@@ -1,2 +1,8 @@
-<p align="center"><a href="https://wylt.arpy8.com/"><img height="128" alt="Spotify Monitor" src="https://wylt.arpy8.com/_image?href=%2F_astro%2Flogo.DnOUdnpE.png&w=783&h=321&f=webp" /></a></p>
-<p align="center" style="padding: 0 200px; color:aqua;">WYLt which stands for What You Listening To? is a cute little tv that shows you your currently playing song, perfect as a desk decor or a bag charm. See your music come alive and add a personal touch to your space.</p>
+<img width="1919" height="810" alt="Untitled design (16)" src="https://github.com/user-attachments/assets/aab00c0e-f11b-4191-8d94-788222ef73d2" />
+<p align="center" style="padding: 0 20px">
+  <span style="font-size:32px; color:#555;">
+    A cute little TV charm that displays your currently playing song.  
+    Perfect as desk decor or a bag accessory.  
+    See your music come alive and add a personal touch to your space.
+  </span>
+</p>
